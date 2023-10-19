@@ -1,0 +1,23 @@
+
+
+O que é o Angular?
+
+Um dos frameworks web mais consolidados do mercado de programação Typescriot o que adiciona muito mais segurança e robustez em comparação com a linguagem JavaScript, principalmene para projetos grandes, pois introduz conceitos de classes, interfaces , tipagem opcional, checagem de erros pelo compilador, intelisense na IDE, além de uma série de recusros que só irão estar presentes no JavaScript daqui alguns anos.
+Também é uma vantagem do Typescriot ser totalmente compatível com JavaScript, sendo que códigos válidos na linguagem JavaScript também são válidos em Typescriot, as vezes não sendo a melhor maneira de escrever por possuir a tipagem e outros recursos, mas é possível reaproveitar com syntaxe.
+
+Módulos Rotas e componentes
+
+ Um módulo no angular é um conjunti isolado de funcionalidades, módulos podem ser importados e trazem consigo todas as declarações: Serviços, componentes, pipes, entre outros.
+ O angular somente faz a injeção de dependência e outras funcionalidades através de módulos, todos os recursos do angular deve estar declarados em módulos simultaneamente, para reutilizar alguma coisa de um módulo em outro, deve-se exportar o recurso (componente, service, pipe) e importar um módulo no outro módulo desejado.
+
+ Devemos exportar uma classe no Typescriotcom anotações @NgModule, ela diz que uma classe representa um módulo, contém configurações:
+
+ - declarations: um array contendo toda as classes que representam componentes de nossa aplicação.
+ - imports: importamos outros módulos aqui.
+ - providers: um array dizendo quais são os serviços que foi criado.
+ -boostrap: diz que o componente será carregado juntamente com o módulo, esse componente será responsável por conter outros para montar nossa aplicação, ao menos 1 componente de boostrap, deve haver no módulo root AppModule.
+
+ For loops, ifs e condicionais
+
+ usando o condicional *ngIf permite que seja adicionado elementos consicionalmente na página através de uma expressão que deve retornar true ou false.
+ usando loops com o *ngFor permite que seja uma interação em um array de dados e que seja mostrado html para cada item, além de dar acesso ás propriedades de cada item.
