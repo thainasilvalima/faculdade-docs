@@ -1,0 +1,37 @@
+--> Como podemos conceituar o Design Thinking? <--
+
+O design é um processo destinado á criação de artefatos para solucionar um problema, a partir do entendimento inicial de um problema, os designers expressam suas ideias por meio de técnicas que consideram aspectos como modularidade, abstração, estratificação, integridade, utilidade e beleza, aliando-os á uma proposta de projeto atemporal.
+
+Também pode ser entendido como um método que permeia as atividades de inovação com foco no ser humano, através de um processo de compreensão detalhado(por meio de observações diretas), para extrair os desejos e necessidades das pessoas não descritos em pesquisas tradicionais, tais como a entrevista. 
+
+Com todas as discussões, chegou-se á conclusão que o design thinking poderia ser classificado como uma abordagem metodológica de projetos que busca soluções de problemas de forma criativa, coletiva e colaborativa, sendo assim pode ser aplicada em várias áreas, como desenvolvimento de sites e com o intuito de atender a necessidade e os desejos do público alvo, ou mesmo nas aplicações de projetos sustentáveis ou mesmo em soluções que precisam identificar falhas e com isso aperfeiçoar o processo, pois a tendência é que sempre sugerimos a mesma solução para novos desafios, e na maioria das vezes isso não é afetivo, por isso que o design thinking vem com a proposta de mudar de certa forma o jeito como os problemas são resolvidos e assim inovar.
+
+--> Fases do Design Thinking. <-- 
+
+Para se construir um design thinking temos que passar por 5 fases bem estruturadas dentro do processo: 
+
+1 - Empatia: Nesta fase a principal proposta é fazer a adoção da simpatia do cliente, para isso precisamos nos colocar na posição dos cliente para entender melhor quais são as duas necessidades e saber exatamente quais são os problemas que precisamos resolver.
+Portanto, antes mesmo de começar a desenvolver o seu website, defina um comportamento centrado no seu cliente/usuário.
+
+2 - Análise e síntese: É durante essa fase que vamos analisar e sintetizar as informações que foram levantadas através de nossos clientes, tendo assim uma organização desses dados, buscando sempre novas oportunidades e desafios.
+Embora pareça uma etapa simples, essa fase terá que analisar todas as informações coletadas e a partir disso, traçar uma visão mais específica sobre o público alvo do seu projeto.
+
+3 - Ideação: É o momento de fazer o brainstorming, ou seja, reunir uma equipe bem diversificada que com isso terá grande possibilidades de atender necessidades distintas, como por exemplo, na criação de um website, você pode reunir participantes de setores diferentes, com formações diferentes, etc, pois quanto mais diverso for o grupo, mais inovadora será a sua elaboração.
+
+4 - Prototipação: É a hora de tirar as ideias do papel para que se tornem aplicáveis. Os benefícios dessas soluções são observados para se construir protótipos básicos para aprender como fazer ideias melhores. 
+
+5 - Validação e Implementação: Nessa etapa, as pessoas interessadas ou possíveis clientes validam as ideias do empreendedor. Ele busca captar a percepção e encontrar possíveis ajustes necessários e gerar um conhecimento contínuo durante o processo de implementação.
+Uma situação muito importante nessa etapa é receber feedbacks dos clientes, pois assim será possível cada vez mais lapidar a ideia do cliente/usuário, tendo uma excelente experiência de uso.
+
+
+--> Método Duplo diamante do design thinking <--
+
+Método criado pelo Conselho de design do Reino Unido, em 2005, que a princípio só era utilizado por designers. Para sua estruturação, os pilares do Design Thinking de empatia, colaboração e experimentação são mantidos de forma que em todas as etapas e no processo como um todo, eles se tornam obrigatórios.
+O duplo diamante é um diagrama que é formado por quarto triângulos, que são conectados, assim retratando as quatro etapas do processo levando a inovação. O modelo de processo de design duplo diamante (Double Diamand Design Process Model) é um dos mais conhecidos [Design Council 2012].
+As etapas do modelo podemos dividir em: Descobrir, Definir, Desenvolver e Entregar, organizadas em estágios divergentes e convergentes do processo de design.
+
+
+
+
+
+
