@@ -29,9 +29,3 @@ Uma situação muito importante nessa etapa é receber feedbacks dos clientes, p
 Método criado pelo Conselho de design do Reino Unido, em 2005, que a princípio só era utilizado por designers. Para sua estruturação, os pilares do Design Thinking de empatia, colaboração e experimentação são mantidos de forma que em todas as etapas e no processo como um todo, eles se tornam obrigatórios.
 O duplo diamante é um diagrama que é formado por quarto triângulos, que são conectados, assim retratando as quatro etapas do processo levando a inovação. O modelo de processo de design duplo diamante (Double Diamand Design Process Model) é um dos mais conhecidos [Design Council 2012].
 As etapas do modelo podemos dividir em: Descobrir, Definir, Desenvolver e Entregar, organizadas em estágios divergentes e convergentes do processo de design.
-
-
-
-
-
-
