@@ -1,0 +1,60 @@
+Segundo Sommerville [2011], o levantamento de requisitos é feito em duas partes: 
+
+1 -- os requisitos do usuário
+2 -- os requisios do sistema
+
+Requisitos do Usuário = são enunciados, escritos em linguagem narutal com diagramas, que referem-se aos serviços que o sistema deverá oferecer aos seus usuários e as restrições de como eles devem funcionar.
+
+Requisitos do Sistema = são descrições mais detalhadas das funcionalidades, serviços e limitações do sistema de software. O documento de requisito do sistema deve estabelecer com rigor o que o deve ser implementado.
+
+Técnicas para o levantamento de requisitos = Segundo Carrizo[2008], as entrevistas são, quase sempre, o único meio utilizado para captura de informações, apesar de nem sempre ser o mais adequado para atender necessidades dos usuários.
+Entrevistas podem ser de 2 tipo: fechadas ou abertas.
+
+Outra técnica que pode ser utilizada é a criação de cenários, que irá buscar a aproximação do mundo real ás funcionalidades dos sistemas que desejamos construir.
+A técnica consiste em descrever os fluxos de informações da maneira mais simples possível, visando o entendimento das necessidades e casos específicos, que em outro momento não foi selecionado como um requisito de sistema.
+
+A próxima tecnica é a dos casos de uso, assim como as outras técnicas, ela é muito utilizada na fase de levantamento de requisitos, no momento da análise e do design do sistema. Nessa técnica, serão apresentadas as várias funcionalidades previstas para o sistema e os usuários que irão utiliza-la.
+
+Ainda temos outras técnicas, exemplo: Etnografia, Validação, Questionários, Prototipagem...
+
+Wiegers[2003], sugere 11 boas práticas para o levantamento de requisitos: 
+
+1 -- definir um processo de desenvolvimento de requisitos
+2 -- escrever um documento de visão e escopo 
+3 -- identificar classes de usuários e suas características
+4 -- selecionar um campeão de produto para cada classe de usuário
+5 -- estabelecer grupos focais de usuários típicos
+6 -- trabalho com representantes dos usuários para identificar os casos de uso; grupos focais de usuários típicos
+7 -- identificar os eventos do sistema e as respostas
+8 -- realizar workshop de elicitação facilitados
+9 -- observar os usuários realizando seus trabalhos
+10 -- examinar os relatórios de problemas dos sistemas atuais para ter ideia de requisitos
+11 -- reutilizar os requisitos em projetos
+
+Requisitos Funcionais 
+
+especificam ações que um sistema deve executar, sem levar em consideração restrições físicas; mlehor descrito quando são utilizados casos de uso.
+
+exemplo: 
+RF01 - o sistema deve permitir á secretaria cadastrar cursos contendo código, descrição e coordenador
+RF02 - o sistema deve permitir á secretaria cadastrar disciplinas de cursos, contendo código, descrição, carga horária, ementa, bibliografia e pré-requisitos.
+RF03 - o sistema deve permitir á secretaria cadastrar alunos, contendo matrícula, nome, endereço, telefone e curso para o qual foi aprovado.
+
+descrição de casos de uso: matricular aluno 
+~ descrição: este caso de uso é iniciado pela secretaria quando requisita ao sistema matricular um aluno em um determinada turma 
+~ objetivo: possibilitar que ocorra a matricula de alunos em turmas 
+~ ator envolvido: secretaria 
+
+Requisitos não-funcionais 
+
+descrevem qualidades do sistema [como ele é] ao invés de susas funcionalidades [o que ele faz]. 
+
+Documentando o levantamento de requisitos = a documentação é uma atividade de registro e oficialização, que indica que um ou vários documentos devem ser produzidos. 
+A documentação apresenta muitos benefícios dentro desse cenário, sendo possível destacar: 
+
+- melhor comunicação dos requisitos 
+- uma maior redução em relação ao esforço do desenvolvimento
+- uma maior realidade de informações para as estimativas
+- também uma base concreta para executar a verificação e validação 
+
+A documentação de requisitos descreve qual é o propósito do sistema, descreve também o domínio do problema, além dos requisitos funcionais e não funcionais e as regras do negócio.

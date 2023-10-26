@@ -1,0 +1,52 @@
+O que é o método Kanban?
+
+É uma abordagem para gerenciamento de mudanças organizacionais, não é um provesso de desenvolvimento de produtos multimídia ou gerenciamento de projetos.
+O Kanban é uma abordagem para a introdução de mudanças no ciclo de vida do desenvolvimento de produtos multimídia ou metodologia de gerenciamento de projetos.
+
+Gestão do Kanban 
+
+Na gestão do trabalho em processo com o Kanban, mostra-se que, quanto mais trabalho em andamento é gerenciado ao mesmo tempo, menos são os índices de qualidade, que diminuem drasticamente.
+Na produção de projetos multimídia, aumentar o trabalho em andamento envolve aumentar o número de erros que este projeto terá como consequência da pouca capacidade de concentração que os desenvolvedores poderão dedicar ás tarefas.
+
+As 4 etapas do Kanban 
+
+1 - preparar a equipe = nesta etapa é necessário reunir todos os colaboradores que fazem parte da sua equipe e deve ser explicado como será o novo sistema de trabalho.
+2 - mapear os processos = consiste no mapeamento de processos, é neste momento que deverá ser mapeado todos os processos que serão executados pela equipe de trabalho, assim, sabendo quais colunas serão necessárias para dar conta de entender e traduzir todos os status pelos quais uma tarefa deverá passar.
+3 - definir esquema de cores e priorização = precisando estabelecer a comunicação entre todos os colaboradores, deve-se definir um modelo de priorização, ou seja, indicar se uma terefa terá uma urgência em sua entrega.
+4 - avaliar para melhorar = assim como temos em todas as adaptações, o kanban também pode trazer alguns desafios e mesmo muitas dificuldades para toda a equipe, por este motivo é muito importante fazer uma avaliação sobre a opinião da equipe sempre pensando na melhoria de todo o processo. 
+
+Kaban no Desenvolvimento Ágil
+
+Com o surgimento do kanban, a entrega dos produtos acabou ganhando uma maior agilidade e precisão. Com isso, as empresas foram capazes de garantir um nível de qualidade muito mais uniforme para toda a sua cadeia operacional, aumentando a competitividade no mercado.
+
+Kanban e Scrum 
+
+Outra forma de reduzir o desperdício nos processos de desenvolvimento e também aplicar prática de metodologias ágeis, é trabalhando com o Scrum. Com essas duas possibilidades, alguns gestores ficam na dúvida para saber qual deles irá aplicar dentro da sua realidade, ou seja, dentro do seu projeto.
+
+diferença entre as duas metodologias ágeis 
+
+scrum 
+
+- sprint com duração fixa 
+- entregas ao final de cada sprint
+- papéis predefinidos
+- sem mudanças durante a sprint- velocidade é uma métrica 
+
+kanban 
+
+- fluxo contínuo
+- entrega contínua
+- sem papéis predefinidos 
+- mudanças a qualquer momento- WIP [Work in Progress] e tempo de espera são métricas 
+
+Scrumban = seria uma mistura de scrum e kanban utilizando os quadros durante as sprints do scrum 
+
+Vantagens do método kanban
+
+1 traz autonomia para a equipe = o responsável pelo processo tem uma facilidade através da gestão visual, ou seja, quando olha para o quadro, é fácil identificar os atatus das entregas e o que ainda precisa ser feito.
+
+2 prioriza tarefas = como já indicado, podemos fazer a priorização das tarefas por sistemas de cores ou até mesmo o responsável pela equipe, no caso o gestor, pode lançar no Kanban.
+
+3 aumenta a produtividade = esse fator se dá quando aumentamos o foco e a equipe passa a ter mais clareza sobre o que precisa ser entregue e quando precisa ser entregue, tornando tarefas mais fáceis. 
+
+4 reduz os custos = aplicando o quadro kanban, fica mais fácil gerenciar o tempo que toda a equipe vai levar em cada tarefa.
