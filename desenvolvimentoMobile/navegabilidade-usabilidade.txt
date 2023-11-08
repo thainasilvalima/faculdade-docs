@@ -1,0 +1,58 @@
+-> Usabilidade <-
+
+A usabilidade de um site é uma das principais características e traz a facilidade de uso do mesmo. Assim, o projeto do website deve estar de acordo com as necessidades dos usurários.
+
+=> Navegabilidade <-
+
+O usuário deve navegar nas diversas páginas do site sem ter muita dificuldade ou sem se perder nas transições de páginas. O site precisa fornecer para o usurário uma excelente comodidade através deste navegabilidade e, principalmente, fazer com que ele consiga encontrar as informações que busca com poucos cliques.
+
+-> Pilares da Usabilidade <-
+
+Aprendizagem(Easy to Learn): Para que nós possamos medir o nível de facilidade, temos que entender a curva de aprendizado necessário, ou seja, o tempo para que o usuário consiga entender e, assim, desenvolver o que foi proposto sem muitas dificuldades.
+
+Eficiência(Efficient): No pilar da eficiência, depois do primeiro contato com a aplicação, agora é preciso fazer uma avaliação para entender se as atividades que os usuários realizaram foram efetivamente e facilmente memorizadas. Precisa verificar também se as mesmas podem ser desempenhadas com facilidade, não havendo, assim, a necessidade de consultar a documentação de auxílio, por exemplo.
+
+Tolerante a erros(Error Tolerant): Uma situação avaliativa que também é muito necessária, são os erros que podem acontecer durante a utilização da aplicação por parte dos usuários. 
+
+Efetivo(Effective): Em relação ao efetivo, vai demonstrar uma avaliação de como o usuário se comporta dentro da aplicação depois de ficar algum tempo sem fazer nenhum uso da mesma.
+
+Satisfação(Engaging): Esse nível de avaliação também é importante medir, pois saberemos avaliar o quanto os usuários acharam a Interface da aplicação amigável e, consequentemente, se estão satisfeitos com o design e as funcionalidades que se apresentam.
+
+-> Métrica de usabilidade <-
+
+Muitas diretrizes de usabilidade foram criadas em várias áreas e o aplicativo de dispositivos móveis também está incluído, no entanto, não há muitos trabalhos publicados em relação a usabilidade de diretrizes que surgem junto com a métrica.
+
+UMUX: É uma escala Likert de quatro itens, usada para avaliação sibjetiva da usabilidade percebida de um aplicativo. É compacta o suficiente para servir como um módulo de usabilidade em uma métrica mais ampla de experiência do usuário.
+
+-> Prototipagem de Softwares <- 
+
+Existem 4 principais metodologias de prototipagem que complementam os sistemas tradicionais no ciclo de vida de desenvolvimento em uso hoje:
+
+Ilustrativo: produz apenas maquetes de relatórios e telas
+Simulado: simula algum sistema, mas não usa dados reais ou um banco de dados, modelo não implementário
+Funcional: executa algum sistema real, funções e usa dados reais e/ou um banco de dados, modelo não implementário
+Evolucionária: produz modelo(s) que se tornam parte do sistema operacional final
+
+-> Mapa de calor da usabilidade <- 
+
+No domínio da avaliação de usabilidade na web, os mapas de calor são frequentemente usados para exibir áreas digitalizadas com frequência na Web pelos visitantes, conforme indicado por arroyo(2006).
+
+Mapas de calor podem ser usados para otimizar o conteúdo da tela, também podem ser aplicados para identificar elementos de interface do usuário não utilizados, como botões. 
+Ou podem se ajudar a reorganizar o conteúdo da tela, revelando o uso incomum e frequente de gestos, (rolagem, arremesso), para que o conteúdo importante do aplicativo possa ser localizado na parte superior da tela.
+
+-> Ferramentas para usabilidade <-
+
+Nos reportamos aas terefas que irão executar, ex testar a eficiência, a satisfação do site, a sua eficácia e a capacidade dos usuários de executar e bater as metas.
+
+Algumas ferramentas
+
+Crazy Egg [simula um espécie de mapa de calor que vai indicar quando e onde os usuários vão clicar no aplicativo com mais frequência]
+
+Koncept [se trata de um conjunto de ferramentas que irão testar a usabilidade de algumas soluções em smartphones, tablets e desktops. Nesta ferramente também aplicamos o mapa de calor e existe também a possibilidade de fazer o rastreamento das tarefas e das sessões dos usuários]
+
+OutSprung[é possível inserir o endereço(URL) do seu site e, após essa inserção, uma pessoa responsável de nível especialista envia um vídeo com feedbacks, comentários e orientações para fazer verificações]
+
+UserTesting[coleta informações dos usuários através de videoconferência, essa coleta geralmente dura em torno de 5 minutos]
+
+
+...
