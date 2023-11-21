@@ -1,0 +1,23 @@
+JSON e APIs 
+
+Uma API é um contrato de alto nível independente de linguagem entre dois sistemas.
+
+Existem padrões que tentam definir bem esses contratos ao custo de maior complexidade e menos produtividade - por exemplo o SOAP -
+Um dos padrões mais usados é o REST, que não define um contrato tão orte, mas é bem mais simples de se desenvolver.
+
+Além disso uma API define o protocolo de comunicação, que pode ser feito em cima de outro protocolo de mais baixo nível.
+
+o JSON é um formato de transferência de dados para ser leve e legível para humanos.
+Sua alternativa mais famosa e usada é o XML. O JSON é mais performático por precisar de menos dados.
+
+O que é REST?
+
+Representational State Transfer é um estilo de arquitetura que utiliza de métodos HTTP para comunicação entre sistemas.
+
+4 operações principais: 
+
+GET = solicita uma informação no servidor, por exemplo uma lista de pessoas, um arquivo pdf, uma pessoa específica...
+POST = cria um recurso no servidor, por exemplo adicionar uma pessoa na base de dados
+PUT = atualiza um recurso no servidor, exemplo atualizar pessoa de ID 1..
+DELETE = deleta um resucro no servidor, exemplo remover pessoa de ID 1..
+
